@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mehak-991/leetcode-ques/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Mehak-991/leetcode-ques/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mehak-991/leetcode-ques/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mehak-991/leetcode-ques/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mehak-991/leetcode-ques/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mehak-991/leetcode-ques/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
