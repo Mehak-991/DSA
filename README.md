@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mehak-991/leetcode-ques/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mehak-991/leetcode-ques/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Mehak-991/leetcode-ques/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/Mehak-991/leetcode-ques/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Mehak-991/leetcode-ques/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
