@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Mehak-991/leetcode-ques/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mehak-991/leetcode-ques/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mehak-991/leetcode-ques/tree/master/0100-same-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
