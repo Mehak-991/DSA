@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mehak-991/leetcode-ques/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Mehak-991/leetcode-ques/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehak-991/leetcode-ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3488-closest-equal-element-queries](https://github.com/Mehak-991/leetcode-ques/tree/master/3488-closest-equal-element-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mehak-991/leetcode-ques/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Mehak-991/leetcode-ques/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Mehak-991/leetcode-ques/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mehak-991/leetcode-ques/tree/master/0383-ransom-note) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehak-991/leetcode-ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sorting
 |  |
 | ------- |
