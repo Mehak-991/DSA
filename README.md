@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Mehak-991/leetcode-ques/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Mehak-991/leetcode-ques/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mehak-991/leetcode-ques/tree/master/0383-ransom-note) |
+| [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehak-991/leetcode-ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sorting
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mehak-991/leetcode-ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/0013-roman-to-integer) |
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
+| [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mehak-991/leetcode-ques/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehak-991/leetcode-ques/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
