@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Mehak-991/leetcode-ques/tree/master/3488-closest-equal-element-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mehak-991/leetcode-ques/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mehak-991/leetcode-ques/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/0013-roman-to-integer) |
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
 | [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mehak-991/leetcode-ques/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
