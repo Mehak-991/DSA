@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mehak-991/leetcode-ques/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mehak-991/leetcode-ques/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Mehak-991/leetcode-ques/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Mehak-991/leetcode-ques/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/Mehak-991/leetcode-ques/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mehak-991/leetcode-ques/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Mehak-991/leetcode-ques/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/Mehak-991/leetcode-ques/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehak-991/leetcode-ques/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mehak-991/leetcode-ques/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Mehak-991/leetcode-ques/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
