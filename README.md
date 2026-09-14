@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Mehak-991/leetcode-ques/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mehak-991/leetcode-ques/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehak-991/leetcode-ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Mehak-991/leetcode-ques/tree/master/3134-find-the-median-of-the-uniqueness-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mehak-991/leetcode-ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mehak-991/leetcode-ques/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Mehak-991/leetcode-ques/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3488-closest-equal-element-queries](https://github.com/Mehak-991/leetcode-ques/tree/master/3488-closest-equal-element-queries) |
 ## Simulation
