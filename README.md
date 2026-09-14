@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mehak-991/leetcode-ques/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Mehak-991/leetcode-ques/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Mehak-991/leetcode-ques/tree/master/0074-search-a-2d-matrix) |
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mehak-991/leetcode-ques/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehak-991/leetcode-ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mehak-991/leetcode-ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Mehak-991/leetcode-ques/tree/master/0074-search-a-2d-matrix) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mehak-991/leetcode-ques/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Mehak-991/leetcode-ques/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3488-closest-equal-element-queries](https://github.com/Mehak-991/leetcode-ques/tree/master/3488-closest-equal-element-queries) |
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Mehak-991/leetcode-ques/tree/master/0074-search-a-2d-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Mehak-991/leetcode-ques/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
