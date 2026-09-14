@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mehak-991/leetcode-ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/0013-roman-to-integer) |
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
+| [0836-rectangle-overlap](https://github.com/Mehak-991/leetcode-ques/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mehak-991/leetcode-ques/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mehak-991/leetcode-ques/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Mehak-991/leetcode-ques/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
