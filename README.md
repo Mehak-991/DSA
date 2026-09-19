@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mehak-991/leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mehak-991/leetcode-ques/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mehak-991/leetcode-ques/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Mehak-991/leetcode-ques/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Mehak-991/leetcode-ques/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Mehak-991/leetcode-ques/tree/master/0074-search-a-2d-matrix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mehak-991/leetcode-ques/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mehak-991/leetcode-ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Mehak-991/leetcode-ques/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/Mehak-991/leetcode-ques/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mehak-991/leetcode-ques/tree/master/0383-ransom-note) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Mehak-991/leetcode-ques/tree/master/3134-find-the-median-of-the-uniqueness-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mehak-991/leetcode-ques/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Mehak-991/leetcode-ques/tree/master/0074-search-a-2d-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Mehak-991/leetcode-ques/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
