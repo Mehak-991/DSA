@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mehak-991/leetcode-ques/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mehak-991/leetcode-ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehak-991/leetcode-ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2643-row-with-maximum-ones](https://github.com/Mehak-991/leetcode-ques/tree/master/2643-row-with-maximum-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/0020-valid-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mehak-991/leetcode-ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Mehak-991/leetcode-ques/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mehak-991/leetcode-ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
 | ------- |
@@ -202,5 +205,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mehak-991/leetcode-ques/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Mehak-991/leetcode-ques/tree/master/0074-search-a-2d-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mehak-991/leetcode-ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/Mehak-991/leetcode-ques/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
