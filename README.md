@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mehak-991/leetcode-ques/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Mehak-991/leetcode-ques/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Mehak-991/leetcode-ques/tree/master/0383-ransom-note) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Mehak-991/leetcode-ques/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/0301-remove-invalid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Mehak-991/leetcode-ques/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Mehak-991/leetcode-ques/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
