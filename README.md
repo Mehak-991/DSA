@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Mehak-991/leetcode-ques/tree/master/0074-search-a-2d-matrix) |
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mehak-991/leetcode-ques/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehak-991/leetcode-ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2643-row-with-maximum-ones](https://github.com/Mehak-991/leetcode-ques/tree/master/2643-row-with-maximum-ones) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mehak-991/leetcode-ques/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/Mehak-991/leetcode-ques/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mehak-991/leetcode-ques/tree/master/0383-ransom-note) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Mehak-991/leetcode-ques/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Mehak-991/leetcode-ques/tree/master/3488-closest-equal-element-queries) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Mehak-991/leetcode-ques/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Mehak-991/leetcode-ques/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mehak-991/leetcode-ques/tree/master/0383-ransom-note) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehak-991/leetcode-ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mehak-991/leetcode-ques/tree/master/3498-reverse-degree-of-a-string) |
