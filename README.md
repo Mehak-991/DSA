@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mehak-991/leetcode-ques/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mehak-991/leetcode-ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehak-991/leetcode-ques/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
 ## Stack
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mehak-991/leetcode-ques/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mehak-991/leetcode-ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mehak-991/leetcode-ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mehak-991/leetcode-ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mehak-991/leetcode-ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
