@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mehak-991/leetcode-ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehak-991/leetcode-ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2643-row-with-maximum-ones](https://github.com/Mehak-991/leetcode-ques/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mehak-991/leetcode-ques/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Mehak-991/leetcode-ques/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mehak-991/leetcode-ques/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mehak-991/leetcode-ques/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
