@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mehak-991/leetcode-ques/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2643-row-with-maximum-ones](https://github.com/Mehak-991/leetcode-ques/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mehak-991/leetcode-ques/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mehak-991/leetcode-ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Mehak-991/leetcode-ques/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mehak-991/leetcode-ques/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mehak-991/leetcode-ques/tree/master/0383-ransom-note) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mehak-991/leetcode-ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Mehak-991/leetcode-ques/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehak-991/leetcode-ques/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Mehak-991/leetcode-ques/tree/master/3488-closest-equal-element-queries) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mehak-991/leetcode-ques/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mehak-991/leetcode-ques/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mehak-991/leetcode-ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mehak-991/leetcode-ques/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mehak-991/leetcode-ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
