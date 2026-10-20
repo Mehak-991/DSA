@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Mehak-991/leetcode-ques/tree/master/0074-search-a-2d-matrix) |
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mehak-991/leetcode-ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mehak-991/leetcode-ques/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mehak-991/leetcode-ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
 | [0836-rectangle-overlap](https://github.com/Mehak-991/leetcode-ques/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mehak-991/leetcode-ques/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/Mehak-991/leetcode-ques/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/Mehak-991/leetcode-ques/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mehak-991/leetcode-ques/tree/master/3875-construct-uniform-parity-array-i) |
@@ -156,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mehak-991/leetcode-ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mehak-991/leetcode-ques/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mehak-991/leetcode-ques/tree/master/0053-maximum-subarray) |
 | [0396-rotate-function](https://github.com/Mehak-991/leetcode-ques/tree/master/0396-rotate-function) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mehak-991/leetcode-ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mehak-991/leetcode-ques/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehak-991/leetcode-ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mehak-991/leetcode-ques/tree/master/0145-binary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mehak-991/leetcode-ques/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mehak-991/leetcode-ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mehak-991/leetcode-ques/tree/master/0145-binary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -248,4 +254,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mehak-991/leetcode-ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mehak-991/leetcode-ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
